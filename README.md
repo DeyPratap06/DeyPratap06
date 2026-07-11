@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Pratap Dey
 
-<!--
-**DeyPratap06/DeyPratap06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 MCA Student
+Royal Global University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Python
+- NumPy
+- Pandas
+- Machine Learning
+- Data Analysis
+
+---
+
+## 💻 Skills
+
+- Python
+- Git
+- GitHub
+
+---
+
+## 📚 Current Goal
+
+Become an AI & Machine Learning Engineer.
+
+---
+
+## 📂 Projects
+
+- Calculator
+- Student Grade Calculator
+- Number Guessing Game
+
+More projects coming soon...
+
+---
+
+## 📫 Connect with me
+
+GitHub:
+https://github.com/DeyPratap06
