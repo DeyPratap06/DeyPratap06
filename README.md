@@ -47,6 +47,8 @@ More projects coming soon...
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeyPratap06&layout=compact&theme=tokyonight)
 
+---
+
 ## 📫 Connect with me
 
 GitHub:
